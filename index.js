@@ -1,11 +1,15 @@
 function isPalindrome(word) {
   // Write your algorithm here
+  isPalindrome(`Kodak ad, OK`)
 }
 
 /* 
   Add your pseudocode here
 */
-
+input :`Kodak ad, OK`
+output:`true`
+input :`robot`
+output: `false`
 /*
   Add written explanation of your solution here
 */
